@@ -6,9 +6,9 @@ import lombok.Data;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "MarvelServicesQuery")
+@Table(name = "marvel_services_query")
 @Data
-public class MarvelServiceQuery {
+public class MarvelQuery {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
