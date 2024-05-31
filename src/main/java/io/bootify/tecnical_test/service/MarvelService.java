@@ -1,6 +1,6 @@
 package io.bootify.tecnical_test.service;
 
-import io.bootify.tecnical_test.MarvelClient;
+import io.bootify.tecnical_test.restClient.MarvelClient;
 import io.bootify.tecnical_test.domain.MarvelResponse;
 import org.springframework.stereotype.Service;
 
